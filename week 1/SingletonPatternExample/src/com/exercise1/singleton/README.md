@@ -6,13 +6,16 @@ Implement the Singleton Design Pattern to ensure that only one instance of the L
 
 ## Project Structure
 
+## Project Structure
+
+```text
 SingletonPatternExample
 └── src
- └── com
-  └── exercise1
-   └── singleton
-    ├── Logger.java
-    └── SingletonTest.java
+    └── com
+        └── exercise1
+            └── singleton
+                ├── Logger.java
+                └── SingletonTest.java
 
 ## Classes
 
