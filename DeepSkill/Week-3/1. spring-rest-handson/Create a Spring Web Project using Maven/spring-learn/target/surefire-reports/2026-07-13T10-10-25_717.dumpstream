@@ -1,0 +1,5 @@
+# Created at 2026-07-13T10:10:25.915
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Cognizant DN\Cognizant-DN-5.0-main\DeepSkill\Week-3\1. spring-rest-handson\Create a Spring Web Project using Maven\spring-learn\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
